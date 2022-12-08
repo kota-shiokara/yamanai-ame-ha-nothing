@@ -1,0 +1,1 @@
+# yamanai-ame-ha-nothing
