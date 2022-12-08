@@ -74,7 +74,7 @@ fun Header(gameMaster: GameMaster) {
     }
 }
 
-fun Debug(message: String) {
+fun Debug(message: Any) {
     Debug("No Tag", message)
 }
 
